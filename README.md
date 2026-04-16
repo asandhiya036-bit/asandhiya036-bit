@@ -1,9 +1,8 @@
 
 # 👋 Hi, I'm Sandhiya
 
-🎓 Aspiring Data Scientist | Machine Learning Enthusiast
-💡 Passionate about solving real-world problems using AI & Data
-
+🎓 Aspiring Data Scientist | Machine Learning Enthusiast & CNN Projects
+💡 Passionate about solving real-world problems using AI & Data| Solving Real-World Problems in Agriculture & Finance
 ---
 
 ## 🚀 About Me
@@ -61,6 +60,10 @@ Applied feature engineering and evaluation metrics
 ## 🏠 House Price Prediction
 Built regression models to estimate house prices
 Compared multiple algorithms for best performance
+
+
+## visuals
+
 
 ## 📊 GitHub Stats
 
